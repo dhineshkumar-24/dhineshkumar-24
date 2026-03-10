@@ -6,20 +6,16 @@ My work focuses on data-driven analysis, predictive modeling, and exploring how 
 
 ## Skills
 
-Python
-Pandas
-NumPy
-Scikit-learn
-Machine Learning
-Data Analysis
+Python, Pandas, NumPy,Scikit-learn
+Financial Data Analysis, Machine Learning, Data Analysis
 Data Visualization
 
 ## Projects
 
 * Bitcoin Price Prediction using Machine Learning
-* Sentiment Analysis using LSTM
-* Economic Growth Prediction Model
 * Macro Regime Analysis for FX Markets
+* Economic Growth Prediction Model
+* Sentiment Analysis using LSTM
 
 ## Currently Learning
 
