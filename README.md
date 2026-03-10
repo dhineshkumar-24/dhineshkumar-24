@@ -1,16 +1,36 @@
-## Hi there 👋
+# Dhinesh Kumar
 
-<!--
-**dhineshkumar-24/dhineshkumar-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Science & Financial Data Analysis
 
-Here are some ideas to get you started:
+I am a data science student interested in applying machine learning and statistical analysis to financial and economic data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on data-driven analysis, predictive modeling, and exploring how data science can be used to understand financial markets.
+
+## Skills
+
+Python
+Pandas
+NumPy
+Scikit-learn
+Machine Learning
+Data Analysis
+Data Visualization
+
+## Projects
+
+* Bitcoin Price Prediction using Machine Learning
+* Sentiment Analysis using LSTM
+* Economic Growth Prediction Model
+* Macro Regime Analysis for FX Markets
+
+## Currently Learning
+
+* Financial Data Science
+* Time Series Forecasting
+* Market Regime Detection
+* Algorithmic Trading Concepts
+
+## Future Work
+
+* Hidden Markov Model Market Regime Detection
+* Mean Reversion Strategy using Z-score
