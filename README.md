@@ -1,9 +1,7 @@
 # Dhinesh Kumar
 
 ## Data Science & Financial Data Analysis
-
 I am a data science student interested in applying machine learning and statistical analysis to financial and economic data.
-
 My work focuses on data-driven analysis, predictive modeling, and exploring how data science can be used to understand financial markets.
 
 ## Skills
@@ -31,6 +29,5 @@ Data Visualization
 * Algorithmic Trading Concepts
 
 ## Future Work
-
 * Hidden Markov Model Market Regime Detection
 * Mean Reversion Strategy using Z-score
