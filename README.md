@@ -25,16 +25,14 @@
 
 ## 🧠 About Me
 
-```python
-dhinesh = {
-    "name"        : "Dhinesh Kumar",
-    "degree"      : "M.Sc. Data Science @ Periyar University (2024–2026)",
-    "background"  : "B.Sc. Physics",
-    "experience"  : "4+ years independent research in financial markets",
-    "focus"       : ["Quantitative Analysis", "ML for Finance", "Systematic Trading"],
-    "location"    : "India",
-    "open_to"     : ["Data Scientist", "ML Engineer", "Quant Analyst", "Fintech Analyst"],
-}
+```yaml
+ Name        : Dhinesh Kumar
+ Degree      : M.Sc. Data Science @ Periyar University (2024–2026)
+ Background  : B.Sc. Physics
+ Experience  : 4+ years independent research in financial markets
+ Focus       : Quantitative Analysis · ML for Finance · Systematic Trading
+ Location    : India
+ Open To     : Data Scientist · ML Engineer · Fintech Analyst
 ```
 
 - 🎓 M.Sc. Data Science student with a Physics foundation — strong in mathematical thinking and statistical modeling
