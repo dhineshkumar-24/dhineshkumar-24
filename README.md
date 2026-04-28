@@ -25,7 +25,8 @@
 
 ## 🧠 About Me
 
-```python
+````markdown
+```yaml
 dhinesh = {
     "name"        : "Dhinesh Kumar",
     "degree"      : "M.Sc. Data Science @ Periyar University (2024–2026)",
