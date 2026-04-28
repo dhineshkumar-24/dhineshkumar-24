@@ -30,7 +30,7 @@
  Degree      : M.Sc. Data Science @ Periyar University (2024–2026)
  Background  : B.Sc. Physics
  Experience  : 4+ years independent research in financial markets
- Focus       : Quantitative Analysis · ML for Finance · Systematic Trading
+ Focus       : Data Scientist · Quantitative Analysis · ML for Finance · Systematic Trading · Macro & Market Research
  Location    : India
  Open To     : Data Scientist · ML Engineer · Fintech Analyst
 ```
